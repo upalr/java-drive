@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=UserInterface
+comment0.text=\r\n\ UserInterface\ is\ the\ class\ for\ managing\ the\ tasks\ of\ the\ employees\ \r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ addTask()
+comment2.text=\r\n\ Add\ tasks\ to\ employee's\ list\ after\ taking\ input\ from\ user\r\n\r\n
+comment3.params=
+comment3.target=void\ findTask()
+comment3.text=\r\n\ Find\ a\ task\ from\ employee's\ list\ after\ taking\ input\ from\ user\r\n\r\n
+comment4.params=
+comment4.target=void\ getNumberOfTasks()
+comment4.text=\r\n\ get\ the\ number\ of\ tasks\ from\ employee's\ list\r\n\r\n
+comment5.params=
+comment5.target=void\ deleteTask()
+comment5.text=\r\n\ delete\ a\ task\ from\ employee's\ list\ after\ taking\ input\ from\ user\r\n\ \r\n
+comment6.params=
+comment6.target=void\ getAllTasks()
+comment6.text=\r\n\ show\ all\ task\ from\ employee's\ list\ after\ taking\ input\ from\ user\r\n\r\n
+numComments=7

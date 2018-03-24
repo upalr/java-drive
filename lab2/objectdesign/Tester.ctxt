@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Tester\ class\ for\ testing\ the\ Employee\ class.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=boolean\ testGetId()
+comment2.text=\r\n\ Test\ getId\ method\ of\ Employee.\r\n\ \r\n\ @return\ Return\ boolean.\ if\ test\ pass\ then\ true\ otherwise\ false.\r\n
+comment3.params=
+comment3.target=boolean\ testSetName()
+comment3.text=\r\n\ Test\ setName\ method\ of\ Employee.\r\n\ \r\n\ @return\ Return\ boolean.\ if\ test\ pass\ then\ true\ otherwise\ false.\r\n
+comment4.params=
+comment4.target=boolean\ testSetSalary()
+comment4.text=\r\n\ Test\ setSalary\ method\ of\ Employee.\r\n\ \r\n\ @return\ Return\ boolean.\ if\ test\ pass\ then\ true\ otherwise\ false.\r\n
+comment5.params=
+comment5.target=boolean\ testToString()
+comment5.text=\r\n\ Test\ toString\ method\ of\ Employee.\r\n\ \r\n\ @return\ Return\ boolean.\ if\ test\ pass\ then\ true\ otherwise\ false.\r\n
+numComments=6
