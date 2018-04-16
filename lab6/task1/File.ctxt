@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=File
+comment0.text=\r\n\ Fiel\ class\ for\ modeling\ real\ File.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=pathName
+comment1.target=void\ setPathName(java.lang.String)
+comment1.text=\r\n\ Changes\ the\ path\ name\ of\ this\ File\r\n\ \r\n\ @param\ pathName\ This\ File's\ new\ path\ name\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getPathName()
+comment2.text=\r\n\ Gets\ the\ path\ name\ of\ this\ File\r\n\ \r\n\ @return\ this\ File's\ path\ name\r\n
+comment3.params=pathName\ fileContent
+comment3.target=File(java.lang.String,\ java.lang.String)
+comment3.text=\r\n\ Constructor\ for\ objects\ of\ class\ File\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ String\ representation\ of\ File\ object.\r\n\r\n\ @return\ this\ File's\ string\ representation\ \ \r\n
+numComments=5

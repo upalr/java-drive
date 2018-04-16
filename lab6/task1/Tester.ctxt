@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tester
+comment0.text=\r\n\ Tester\ is\ the\ class\ for\ testing\ different\ types\ of\ documents\ \r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=docObject\ keyword
+comment2.target=boolean\ ContainsKeyword(Document,\ java.lang.String)
+comment2.text=\r\n\ Checking\ a\ specific\ keyword\ in\ document's\ text\r\n\r\n\ @param\ \ docObject\ \ first\ paramter\ of\ ContainsKeyword\ method.\ Represents\ Document\ object\r\n\ @param\ \ keyword\ \ \ \ second\ paramter\ of\ ContainsKeyword\ method.\ Represents\ keyword\r\n\ @return\ \ boolean\ \ \ if\ keayword\ found\ in\ the\ document\ text\ then\ return\ true.\ Otherwise\ return\ false\r\n
+numComments=3

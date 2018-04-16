@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Document
+comment0.text=\r\n\ Document\ class\ for\ modeling\ real\ Document.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=text
+comment1.target=void\ setText(java.lang.String)
+comment1.text=\r\n\ Changes\ the\ text\ of\ this\ Document\r\n\ \r\n\ @param\ text\ This\ Document's\ new\ text\ \r\n
+comment2.params=text
+comment2.target=Document(java.lang.String)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Document\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ String\ representation\ of\ Document\ object.\r\n\r\n\ @return\ this\ Document's\ string\ representation\ \ \r\n
+numComments=4

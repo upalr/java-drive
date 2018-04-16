@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ Teacher\ class\ for\ modeling\ real\ Teacher.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=subjectName
+comment1.target=void\ setSubjectName(java.lang.String)
+comment1.text=\r\n\ Changes\ the\ subject\ name\ of\ this\ Teacher\r\n\ \r\n\ @param\ subjectName\ This\ Teacher's\ new\ subject\ name\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getSubjectName()
+comment2.text=\r\n\ Gets\ the\ subjectName\ of\ this\ Teacher\r\n\ \r\n\ @return\ this\ Teacher's\ subjectName\r\n
+comment3.params=salary
+comment3.target=void\ setSalary(double)
+comment3.text=\r\n\ Changes\ the\ salary\ of\ this\ Teacher\r\n\ \r\n\ @param\ salary\ This\ Teacher's\ new\ salary\ \r\n
+comment4.params=
+comment4.target=double\ getSalary()
+comment4.text=\r\n\ Gets\ the\ salary\ of\ this\ Teacher\r\n\ \r\n\ @return\ this\ Teacher's\ salary\r\n
+comment5.params=firstName\ lastName\ subjectName\ salary
+comment5.target=Teacher(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment5.text=\r\n\ Constructor\ for\ objects\ of\ class\ Teacher\r\n
+comment6.params=
+comment6.target=java.lang.String\ displayDetails()
+comment6.text=\r\n\ String\ representation\ of\ Teacher\ object.\r\n\r\n\ @return\ this\ Teacher's\ string\ representation\ \ \r\n
+numComments=7
