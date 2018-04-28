@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Resizable
+comment0.text=\r\n\ Interface\ for\ representing\ resizeable\ geometric\ object\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=percent
+comment1.target=void\ resize(int)
+comment1.text=\r\n\ method\ signeture\ -\ resize\ method\ can\ increase\ or\ decrease\ the\ radius\ of\ a\ circle\r\n\r\n\ @param\ \ percent\ \ first\ paramter\ of\ resize\ method.\ Represents\ the\ percent\ by\ which\ the\ radius\ should\ be\ changed\r\n
+numComments=2

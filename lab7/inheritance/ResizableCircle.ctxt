@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ResizableCircle
+comment0.text=\r\n\ \ ResizableCircle\ is\ a\ real\ circle\ object\ which\ radius\ can\ be\ changed\ dynamically.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0)\r\n
+comment1.params=radius
+comment1.target=ResizableCircle(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ResizableCircle\r\n
+comment2.params=percent
+comment2.target=void\ resize(int)
+comment2.text=\r\n\ resize\ method\ can\ increase\ the\ radius\ of\ a\ circle\r\n\r\n\ @param\ \ percent\ \ first\ paramter\ of\ resize\ method.\ Represents\ the\ percent\ by\ which\ the\ radius\ should\ be\ changed\r\n
+numComments=3

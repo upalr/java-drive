@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GeometricObject
+comment0.text=\r\n\ Interface\ for\ representing\ common\ geometic\ Object\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=double\ getPerimeter()
+comment1.text=\r\n\ method\ signature\ -\ get\ the\ perimeter\ of\ gemotric\ Object\r\n\r\n\ @return\ \ double\ it\ returns\ the\ perimeter\ of\ geometric\ object\r\n
+comment2.params=
+comment2.target=double\ getArea()
+comment2.text=\r\n\ method\ signature\ -\ get\ the\ area\ of\ gemotric\ Object\r\n\r\n\ @return\ \ double\ it\ returns\ the\ area\ of\ geometric\ object\r\n
+numComments=3

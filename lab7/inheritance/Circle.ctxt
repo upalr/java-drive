@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Circle
+comment0.text=\r\n\ Circle\ class\ for\ modeling\ real\ Circle.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=radius
+comment1.target=Circle(double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment2.params=
+comment2.target=double\ getPerimeter()
+comment2.text=\r\n\ Get\ the\ perimeter\ of\ a\ circle\r\n\r\n\ @return\ double\ return\ perimeter\ of\ a\ circle\r\n
+comment3.params=
+comment3.target=double\ getArea()
+comment3.text=\r\n\ Get\ the\ perimeter\ of\ a\ area\r\n\r\n\ @return\ double\ return\ area\ of\ a\ circle\r\n
+numComments=4
