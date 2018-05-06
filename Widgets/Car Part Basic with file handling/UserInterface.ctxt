@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=aCar
+comment0.target=UserInterface(Car)
+comment0.text=\r\n\ Consotructor\ for\ UserInterface\ class\r\n\ \r\n\ @param\ aCar\ the\ Car\ object\ to\ be\ initialised\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Calls\ the\ appropriate\ UI\ method\ based\ on\ user\ selection.\r\n
+comment2.params=
+comment2.target=int\ menu()
+comment2.text=\r\n\ Prints\ the\ user\ interface\ menu\r\n\ \r\n\ @return\ int\ returns\ the\ option\ user\ has\ picked\r\n
+comment3.params=
+comment3.target=void\ addPart()
+comment3.text=\r\n\ Prompts\ the\ user\ for\ part\ details\ to\ be\ added,\ creates\ a\ Part\ object\ and\ adds\ it\ to\ the\ Car.\r\n
+comment4.params=
+comment4.target=void\ listParts()
+comment4.text=\r\n\ Prints\ all\ car\ part\ details.\r\n
+comment5.params=
+comment5.target=void\ deletePart()
+comment5.text=\r\n\ Prompts\ the\ user\ to\ enter\ the\ part\ number\ to\ delete,\ finds\ it\ and\ removes\ it.\r\n
+comment6.params=
+comment6.target=void\ findPart()
+comment6.text=\r\n\ Prompts\ the\ user\ to\ enter\ the\ part\ number\ for\ searching,\ finds\ it\ and\ prints\ it.\r\n
+numComments=7

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SimpleSorting
+comment0.text=\r\n\ @(\#)SimpleSorting.java\r\n\ Collections\ API\u2019s\ utility\ class\ Collections\ provide\ a\ handy\ way\ to\ sort\ an\ ArrayList\ in\ natural\ ordering\ provided\ all\ elements\ in\ the\ \r\n\ list\ must\ implement\ the\ Comparable\ interface.\r\n\ However,\ this\ class\ does\ not\ need\ to\ implement\ Comparable.\ It\ works\ perfectly\ with\ Collections.Sort()\ as\ List\ defined\ in\ example\ was\ List<String>\ \r\n\ and\ java.lang.String\ implements\ the\ Comparable\ interface.\r\n\r\n\r\n\ @author\r\n\ @version\ 1.00\ 2018/4/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

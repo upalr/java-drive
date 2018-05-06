@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ @(\#)Person.java\r\n\ This\ class\ must\ implement\ Comparable\ to\ be\ sorted\r\n\r\n\ @author\r\n\ @version\ 1.00\ 2018/4/18\r\n
+comment1.params=name\ age
+comment1.target=Person(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=name
+comment3.target=void\ setName(java.lang.String)
+comment4.params=
+comment4.target=int\ getAge()
+comment5.params=age
+comment5.target=void\ setAge(int)
+comment6.params=person
+comment6.target=int\ compareTo(Person)
+numComments=7

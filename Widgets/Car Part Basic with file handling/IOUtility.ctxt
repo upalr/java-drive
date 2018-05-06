@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=prompt
+comment0.target=java.lang.String\ getString(java.lang.String)
+comment0.text=\ getString(String\ prompt)\ prompts\ the\ user\ for\ an\ input,\ \r\n\ reads\ it\ as\ a\ String\ object\ and\ returns\ it.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ String\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+comment1.params=prompt
+comment1.target=java.lang.Double\ getDouble(java.lang.String)
+comment1.text=\ getDouble(String\ prompt)\ prompts\ the\ user\ for\ an\ input\ \r\n\ and\ parses\ the\ input\ to\ Double\ object.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ Double\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+comment2.params=prompt
+comment2.target=java.lang.Integer\ getInteger(java.lang.String)
+comment2.text=\ getInteger(String\ prompt)\ prompts\ the\ user\ for\ an\ input\ \r\n\ and\ parses\ the\ input\ to\ an\ Integer\ object.\r\n\ \r\n\ @param\ \ \ prompt\ \ A\ String\ which\ promts\ for\ user\ input\r\n\ @return\ \ Integer\ An\ object\ which\ holds\ the\ user\ input\r\n
+comment3.params=toPrint
+comment3.target=void\ println(java.lang.String)
+comment3.text=\ println(String\ toPrint)\ prints\ the\ argument\ passed\ to\ the\ method.\ \r\n\ \r\n\ @param\ \ \ toPrint\ A\ String\ that\ should\ be\ printed\ to\ the\ stdout\r\n
+comment4.params=
+comment4.target=java.lang.Integer\ getInteger()
+comment4.text=\ getInteger()\ promts\ the\ user\ for\ an\ integer\ input\ and\ \r\n\ parses\ the\ input\ to\ an\ Integer\ object.\r\n\ \r\n\ @return\ Integer\ \ An\ object\ which\ holds\ the\ user\ input\r\n
+numComments=5

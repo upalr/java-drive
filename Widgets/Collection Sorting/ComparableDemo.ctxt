@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ComparableDemo
+comment0.text=\r\n\ @(\#)ComparableDemo.java\r\n\ Sort\ based\ on\ a\ natural\ ordering\r\n\r\n\ @author\r\n\ @version\ 1.00\ 2018/4/18\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
