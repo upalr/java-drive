@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Comment
+comment0.text=\r\n\ Comment\ class\ for\ modeling\ real\ comment.\r\n\r\n\ @author\ Upal\ Roy\r\n\ @version\ 1.0.0\r\n
+comment1.params=
+comment1.target=int\ getId()
+comment1.text=\r\n\ Gets\ the\ id\ of\ this\ Comment\r\n\ \r\n\ @return\ this\ Comment's\ id\r\n
+comment2.params=id
+comment2.target=void\ setId(int)
+comment2.text=\r\n\ Changes\ the\ id\ of\ this\ Comment\r\n\ \r\n\ @param\ id\ This\ Comment's\ new\ id\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Gets\ the\ description\ of\ this\ Comment\r\n\ \r\n\ @return\ this\ Comment's\ description\r\n
+comment4.params=name
+comment4.target=void\ setDescription(java.lang.String)
+comment4.text=\r\n\ Changes\ the\ description\ of\ this\ Comment\r\n\ \r\n\ @param\ description\ This\ Comment's\ new\ description\ \r\n
+comment5.params=id\ description
+comment5.target=Comment(int,\ java.lang.String)
+comment5.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comment\r\n
+comment6.params=description
+comment6.target=Comment(java.lang.String)
+comment6.text=\r\n\ Constructor\ for\ objects\ of\ class\ Comment\r\n
+comment7.params=dataList
+comment7.target=void\ saveComment(java.util.ArrayList)
+comment7.text=\r\n\ Save\ Commest's\ \ data\ as\ Strings\r\n\ params\ dataList\ data\ for\ save\ in\ file\ \r\n
+numComments=8
